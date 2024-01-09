@@ -3,14 +3,6 @@
 
 Сообщество для публикаций. Блог с возможностью публикации постов, подпиской на группы и авторов, а также комментированием постов.
 
-### **Стек**
-![python version](https://img.shields.io/badge/Python-3.7-green)
-![django version](https://img.shields.io/badge/Django-2.2-green)
-![pillow version](https://img.shields.io/badge/Pillow-8.3-green)
-![pytest version](https://img.shields.io/badge/pytest-6.2-green)
-![requests version](https://img.shields.io/badge/requests-2.26-green)
-![sorl-thumbnail version](https://img.shields.io/badge/thumbnail-12.7-green)
-
 ### **Запуск проекта в dev-режиме**
 Инструкция ориентирована на операционную систему windows и утилиту git bash.<br/>
 Для прочих инструментов используйте аналоги команд для вашего окружения.
